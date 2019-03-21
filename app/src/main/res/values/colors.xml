@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- This is the color of the Toolbar -->
+    <color name="colorPrimary">#c44d58</color>
+    <!-- This is the color of the Status bar -->
+    <color name="colorPrimaryDark">#912a33</color>
+    <!-- The Color of the Status bar -->
+    <color name="colorAccent">#c44d58</color>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Korakit</string>
+    <string name="title_activity_scrolling_activity_details">Korakit News</string>
+    <string name="title_activity_favourites">Favourites</string>
+    <string name="no_data_available">No news to preview!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_favourite">Favourites</string>
+    <string name="internet_error">Please make sure you got internet connection!</string>
+</resources>

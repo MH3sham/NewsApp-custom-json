@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="app.com.example.vip.koranewsuserapp.ViewAllPosts">
+    <item
+        android:id="@+id/action_favourite"
+        android:orderInCategory="100"
+        android:title="@string/action_favourite"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:orderInCategory="100"
+        android:title="Refresh"
+        android:icon="@drawable/refresh"
+        app:showAsAction="always" />
+
+</menu>
